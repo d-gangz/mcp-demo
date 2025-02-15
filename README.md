@@ -19,9 +19,9 @@ A streamlined Next.js template for building AI prototypes and applications. Perf
 
 ## Getting Started
 
-1. Clone the repository:
+1. Create your environment file:
 ```bash
-git clone https://github.com/yourusername/ai-playground-template
+cp .env.example .env.local
 ```
 
 2. Install dependencies:
