@@ -4,7 +4,7 @@ A streamlined Next.js template for building AI prototypes and applications. Perf
 
 ## Tech Stack
 
-- **Framework:** [Next.js 14](https://nextjs.org)
+- **Framework:** [Next.js 15](https://nextjs.org)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com)
 - **UI Components:** [shadcn/ui](https://ui.shadcn.com)
 - **AI Integration:** [Vercel AI SDK](https://sdk.vercel.ai/docs)
